@@ -3,6 +3,9 @@
 sudo apt update  
 sudo apt install wine  
 sudo apt install winetricks
+## to create newwineprefix
+WINEPREFIX=/home/students/newwineprefix winecfg
+
 winetricks vcrun6  
 ```
 ## Download the above 2 files
