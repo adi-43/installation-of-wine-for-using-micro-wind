@@ -2,7 +2,8 @@
 ```bash
 sudo apt update  
 sudo apt install wine  
-sudo apt install winetricks  
+sudo apt install winetricks
+winetricks vcrun6  
 ```
 ## Download the above 2 files
 ## Extract them
